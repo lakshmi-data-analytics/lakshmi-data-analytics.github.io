@@ -39,3 +39,15 @@ hr {
 ul {
     line-height: 2;
 }
+
+nav {
+    display: flex;
+    gap: 25px;
+    margin-bottom: 60px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #ddd;
+}
+
+nav a {
+    font-weight: bold;
+}
